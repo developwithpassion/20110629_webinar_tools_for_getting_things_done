@@ -1,18 +1,5 @@
 [
   {"section":"title"},
-  {"section":"about_me"},
-  {"section":"git_in_60"},
-  {"section":"debugging"},
-  {"section":"environment"},
-  {"section":"describe"},
-  {"section":"bundles"},
-  {"section":"branch_manage"},
-  {"section":"tracking"},
-  {"section":"new_stuff"},
-  {"section":"replace"},
-  {"section":"rerere"},
-  {"section":"cherry"},
-  {"section":"customizing_git"},
-  {"section":"hub"},
-  {"section":"final"}
+  {"section":"earth_class_mail"},
+  {"section":"livescribe"}
 ]
