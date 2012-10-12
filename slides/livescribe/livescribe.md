@@ -8,7 +8,7 @@
 
 #The last pen you'll ever need!!
 
-* Pricing - $19.95/month - $39.95/month - approximately
+* Pricing - $99 - $250 approximately
 * The main tool I use for capturing all of my handwritten notes
 
 !SLIDE center bullets incremental
